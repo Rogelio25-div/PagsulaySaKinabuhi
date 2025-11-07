@@ -1,0 +1,77 @@
+/*.login-form {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    min-height: 100vh;*/
+/*    background: white;*/
+/*}*/
+
+/*.form {*/
+/*    background: white;*/
+/*    padding: 40px;*/
+/*    border-radius: 12px;*/
+/*    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);*/
+/*    width: 100%;*/
+/*    max-width: 380px;*/
+/*    border: 1px solid #e5e5e5;*/
+/*}*/
+
+/*.button-div {*/
+/*    margin-bottom: 24px;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.button-div h1 {*/
+/*    font-size: 24px;*/
+/*    color: #333;*/
+/*    margin: 0;*/
+/*}*/
+
+/*.input {*/
+/*    width: 100%;*/
+/*    height: 44px;*/
+/*    margin-bottom: 16px;*/
+/*    padding: 0 14px;*/
+/*    border: 1px solid #ddd;*/
+/*    border-radius: 8px;*/
+/*    font-size: 15px;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+/*.input:focus {*/
+/*    outline: none;*/
+/*    border-color: #666;*/
+/*}*/
+
+/*.login-btn {*/
+/*    width: 100%;*/
+/*    height: 44px;*/
+/*    background: #333;*/
+/*    color: white;*/
+/*    border: none;*/
+/*    border-radius: 8px;*/
+/*    font-size: 15px;*/
+/*    cursor: pointer;*/
+/*    margin-top: 8px;*/
+/*}*/
+
+/*.login-btn:hover {*/
+/*    background: #555;*/
+/*}*/
+
+/*.message {*/
+/*    text-align: center;*/
+/*    margin-top: 20px;*/
+/*    color: #666;*/
+/*    font-size: 14px;*/
+/*}*/
+
+/*.message a {*/
+/*    color: #333;*/
+/*    text-decoration: none;*/
+/*    font-weight: 600;*/
+/*}*/
+
+/*.message a:hover {*/
+/*    text-decoration: underline;*/
+/*}*/

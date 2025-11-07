@@ -1,0 +1,77 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*min-height: 100vh;*/
+    min-width: 100%;
+    gap: 20px;
+    /*background-color: #f9fafb;*/
+}
+
+.info-card {
+    background-color: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    width: 320px;
+    padding: 16px;
+    box-shadow: 0px 0px 9px 0px #000000;
+
+}
+
+.card-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 8px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.header-text {
+    font-size: 12px;
+    color: #6b7280;
+}
+
+.database-tag {
+    font-size: 12px;
+    color: #dc2626;
+    background-color: #fee2e2;
+    padding: 2px 8px;
+    border-radius: 6px;
+}
+
+.card-details {
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.detail-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.label {
+    color: #6b7280;
+}
+
+.value {
+    color: #111827;
+    font-weight: 500;
+}
+
+.link {
+    color: #2563eb;
+}
+
+.prepaid {
+    color: #16a34a;
+    font-weight: 600;
+}
